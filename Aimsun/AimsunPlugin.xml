@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<TrafficSimulatorViewModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.4.0.0" RunDuringSimulation="false" ReportUnsupportedRoads="true" GenerateOnBuild="false" ApplicationDirectory="" ExperimentFileName="">
+  <EgoVehicle UniqueID="0" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+  <PreScanVehicles>
+    <Vehicle UniqueID="166" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="168" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="169" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="172" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="173" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="197" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="199" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="387" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="388" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="389" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="390" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="431" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="509" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="510" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="511" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="512" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="513" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="514" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="515" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="516" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+    <Vehicle UniqueID="523" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+  </PreScanVehicles>
+  <ExternallyControlledVehicles />
+  <ObjectPoolGenerateInfo NumberOfCars="0" NumberOfTrucks="0" NumberOfMotorbikes="0" NumberOfBicycles="0" NumberOfPedestrians="0" />
+  <Origin X="0" Y="0" />
+  <TrafficLightMapping />
+</TrafficSimulatorViewModel>

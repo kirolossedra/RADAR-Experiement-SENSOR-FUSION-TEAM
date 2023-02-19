@@ -1,0 +1,17 @@
+federates:
+[
+  {
+    federateId: 0
+    moduleName: RadarFederate
+    instanceName: RadarFederate_0
+    hostName: sedrapc
+    gpuId: -1
+    sensors: 
+    [
+      {
+        index: 0
+        name: Radar_2
+      }
+    ]
+  }
+]

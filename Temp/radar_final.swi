@@ -1,0 +1,7 @@
+# create sensor mounts and cameras
+Radar_2_mount = visnodes.VisTransform.createTransformNode(r"Radar_2_mount")
+scene.Skywell_1.addChild(Radar_2_mount)
+scene.getTransformChild("Radar_2_mount")
+Radar_2_mount.setTranslation(3.50999999046326, 0, 0.449999988079071)
+Radar_2_mount.setRotation(0, 1, 0, 0)
+
