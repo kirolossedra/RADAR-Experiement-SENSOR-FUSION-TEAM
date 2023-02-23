@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <TrafficSimulatorViewModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="3.0.0.0" RunDuringSimulation="false" ReportUnsupportedRoads="true" GenerateOnBuild="false" ApplicationDirectory="" ExperimentFileName="">
   <EgoVehicle UniqueID="0" Category="CAR" EnableTurnIndicatorSynchronization="false" />
   <PreScanVehicles>
