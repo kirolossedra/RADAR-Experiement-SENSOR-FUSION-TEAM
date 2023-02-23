@@ -11,7 +11,7 @@
 | Active BeamID[-] | ID of the beam in the current simulation time step. Value is 0 when there is not detection |
 | Range[m] | Range at which the target object has been detected |
 | DopplerVelocity[ms-1] | Velocity of target point relative to the sensor along the beam |
-| DopplerVelocityX/Y/Z[ms-1] | Velocity of target point relative to the sensor along the beam decomposed into X,Y,Z of the sensor's coordinate system |
+| DopplerVelocityXYZ[ms-1] | Velocity of target point relative to the sensor along the beam decomposed into X,Y,Z of the sensor's coordinate system |
 | Theta[deg] | Azimuth angle in the sensor coordinate system at which the target is detected |
 | Phi[deg] | Elevation angle in the sensor coordinate system at which the target is detected |
 | TargetID[-] | The Type ID of the detected object |
