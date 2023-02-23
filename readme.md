@@ -19,3 +19,13 @@
 | EnergyLoss[dB] | Ratio recieved power/ transmitted power |
 | Alpha[deg] | Azimuthal incidence angle of the RADAR on the target object |
 | Beta[deg] | Elevation incidence angle of the RADAR on the target object |
+
+- - -
+## Publishing Signals 
+
+![2023-02-23 (3)](https://user-images.githubusercontent.com/59807200/221026037-b592984a-3c50-44be-ba11-7ddda917590c.png)
+![2023-02-23 (4)](https://user-images.githubusercontent.com/59807200/221026182-264efd8a-23f5-478c-ac3f-a16eee0fbf32.png)
+![2023-02-23 (5)](https://user-images.githubusercontent.com/59807200/221026292-2e1569a5-842a-4068-8190-f62aa7c4b000.png)
+
+- - -
+## Subscriping Signals 
