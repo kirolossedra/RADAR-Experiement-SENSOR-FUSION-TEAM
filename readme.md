@@ -10,7 +10,9 @@
 | Signal Name | Description |
 | --- | --- |
 | Active BeamID[-] | ID of the beam in the current simulation time step. Value is 0 when there is not detection |
-| Range[m] | Range at which the target object has been detected |
+| Range[m] | ```
+start SEDRA16 asm session
+``` Range at which the target object has been detected |
 | DopplerVelocity[ms-1] | Velocity of target point relative to the sensor along the beam |
 | DopplerVelocityXYZ[ms-1] | Velocity of target point relative to the sensor along the beam decomposed into X,Y,Z of the sensor's coordinate system |
 | Theta[deg] | Azimuth angle in the sensor coordinate system at which the target is detected |
